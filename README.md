@@ -1,14 +1,19 @@
 <div align="center">
 
-<!-- Header Banner -->
+# Hey there! 👋 I'm Soumya Faye
+
+### `Designer` • `Developer` • `AI & Robotics Engineer`
+
 <a href="https://github.com/soumyafaye-23">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:06b6d4&height=220&section=header&text=Soumya%20Faye&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Designer%20|%20Developer%20|%20AI%20%26%20Robotics%20Engineer&descSize=18&descAlignY=55&descColor=b8b8b8" width="100%" alt="Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+the+future+of+robotics+with+NVIDIA+%26+Cerebras;Autonomous+UAV+Developer+%7C+AI+%26+ML+Specialist;Focused+on+training+advanced+AI+models" alt="Typing SVG"/>
 </a>
 
-<!-- Typing Animation -->
-<a href="https://github.com/soumyafaye-23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+the+future+of+robotics+with+NVIDIA+%26+Cerebras;%F0%9F%A7%A0+Focused+on+training+advanced+AI+models;%F0%9F%9A%81+Autonomous+UAV+Developer+%7C+AI+%26+ML+Specialist" alt="Typing SVG"/>
-</a>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-website-lg6v.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyafaye@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyafaye-23)
+![Profile Views](https://komarev.com/ghpvc/?username=soumyafaye-23&color=a855f7&style=for-the-badge&label=VIEWS)
 
 </div>
 
@@ -26,16 +31,12 @@ Passion:   Bridging design & code to create immersive web experiences
 Portfolio: https://portfolio-website-lg6v.vercel.app
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyafaye-23&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="260"/>
-
 - 🔭 I'm currently working on **Autonomous UAV Systems & Advanced AI Models**
 - 🌱 I'm diving deeper into **NVIDIA Jetson, Cerebras, and Computer Vision**
 - 🎨 I bridge the gap between **design** and **code** to create immersive web experiences
 - 💬 Ask me about **AI/ML, Robotics, UAV Development, Web Design**
 - 📫 Reach me at **soumyafaye@gmail.com**
 - ⚡ Fun fact: I'm driven by the challenge of building efficient software and solving complex algorithmic problems
-
-<br clear="right"/>
 
 ---
 
@@ -99,22 +100,35 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 
 ---
 
-## 🤝 Connect with Me
+## 🎬 NexusTech Event Hub — Demo
 
-<div align="center">
+<!-- 
+  HOW TO ADD YOUR FORM FLOW VIDEO/GIF:
+  
+  Option 1 (GIF — recommended): 
+    Record your screen, convert to GIF, then drag-and-drop the GIF 
+    into this README on GitHub's web editor. GitHub will upload it and 
+    give you a URL automatically. Replace the placeholder below.
+  
+  Option 2 (MP4 Video): 
+    Drag-and-drop an .mp4 file into this README on GitHub's web editor.
+    GitHub will auto-upload it. Replace the placeholder below.
+  
+  Option 3 (YouTube link with thumbnail):
+    Upload your video to YouTube, then use the format below with your video ID.
+-->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-website-lg6v.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyafaye@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyafaye-23)
-
-</div>
+<!-- REPLACE THIS PLACEHOLDER with your actual GIF/video once you record it -->
+> 🎥 **Coming Soon** — A walkthrough demo of the NexusTech Event Hub form flow will be added here!
+> 
+> *To add it: Record your screen → convert to GIF → drag-and-drop into this README on GitHub's web editor*
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=soumyafaye-23&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+### 💜 Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+*If you like my work, consider giving a ⭐ to my repos!*
 
 </div>
