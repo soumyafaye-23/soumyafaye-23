@@ -1,10 +1,14 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soumya%20Faye&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Designer%20%7C%20Developer%20%7C%20AI%20%26%20Robotics%20Engineer&descSize=18&descAlignY=55&descColor=b8b8b8" width="100%"/>
+<a href="https://github.com/soumyafaye-23">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:06b6d4&height=220&section=header&text=Soumya%20Faye&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Designer%20|%20Developer%20|%20AI%20%26%20Robotics%20Engineer&descSize=18&descAlignY=55&descColor=b8b8b8" width="100%" alt="Header"/>
+</a>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+the+future+of+robotics+with+NVIDIA+%26+Cerebras;%F0%9F%A7%A0+Focused+on+training+advanced+AI+models;%F0%9F%9A%81+Autonomous+UAV+Developer+%7C+AI+%26+ML+Specialist)](https://git.io/typing-svg)
+<a href="https://github.com/soumyafaye-23">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+the+future+of+robotics+with+NVIDIA+%26+Cerebras;%F0%9F%A7%A0+Focused+on+training+advanced+AI+models;%F0%9F%9A%81+Autonomous+UAV+Developer+%7C+AI+%26+ML+Specialist" alt="Typing SVG"/>
+</a>
 
 </div>
 
