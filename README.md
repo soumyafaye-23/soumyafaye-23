@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- 🎬 HERO BANNER -->
-<img src="./assets/images/hero-loop.svg" width="100%" alt="Hero Banner"/>
+<img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/hero-loop.svg" width="100%" alt="Hero Banner"/>
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 ### 🌀 Let's Build the Future Together
 
 <a href="https://portfolio-website-lg6v.vercel.app">
-  <img src="./assets/images/portal-cta.svg" width="300" alt="Enter Portal"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/portal-cta.svg" width="300" alt="Enter Portal"/>
 </a>
 
 <br/>
@@ -76,37 +76,37 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="./assets/images/nvidia-demo.svg" width="100%" alt="NVIDIA"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/nvidia-demo.svg" width="100%" alt="NVIDIA"/>
   <br/>
 </td>
 <td align="center" width="25%">
-  <img src="./assets/images/cerebras-demo.svg" width="100%" alt="Cerebras"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/cerebras-demo.svg" width="100%" alt="Cerebras"/>
   <br/>
 </td>
 <td align="center" width="25%">
-  <img src="./assets/images/tensorflow-demo.svg" width="100%" alt="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/tensorflow-demo.svg" width="100%" alt="TensorFlow"/>
   <br/>
 </td>
 <td align="center" width="25%">
-  <img src="./assets/images/pytorch-demo.svg" width="100%" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/pytorch-demo.svg" width="100%" alt="PyTorch"/>
   <br/>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-  <img src="./assets/images/react-demo.svg" width="100%" alt="React"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/react-demo.svg" width="100%" alt="React"/>
   <br/>
 </td>
 <td align="center" width="25%">
-  <img src="./assets/images/typescript-demo.svg" width="100%" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/typescript-demo.svg" width="100%" alt="TypeScript"/>
   <br/>
 </td>
 <td align="center" width="25%">
-  <img src="./assets/images/python-demo.svg" width="100%" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/python-demo.svg" width="100%" alt="Python"/>
   <br/>
 </td>
 <td align="center" width="25%">
-  <img src="./assets/images/webdev-demo.svg" width="100%" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/assets/images/webdev-demo.svg" width="100%" alt="Next.js"/>
   <br/>
 </td>
 </tr>
