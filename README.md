@@ -1,19 +1,19 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              SOUMYA FAYE — VIDEO-FIRST GITHUB PROFILE         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ╔════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🎬 HERO VIDEO                           ║ -->
+<!-- ║  Drop your hero-loop.mp4 into ./assets/videos/            ║ -->
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
+  <video src="./assets/videos/hero-loop.mp4" width="100%" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║              🎬 HERO VIDEO HEADER                       ║ -->
-<!-- ║  Replace YOUR_VIDEO_URL with your actual video link.    ║ -->
-<!-- ║  To get the link: Go to GitHub → Edit README →          ║ -->
-<!-- ║  Drag-drop your .mp4 file → GitHub gives you a URL.     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-<!-- UNCOMMENT the video tag below once you have your video URL -->
-<!-- <video src="YOUR_VIDEO_URL.mp4" width="100%" autoplay loop muted playsinline></video> -->
-
-<!-- TEMPORARY FALLBACK: This shows until you add your video -->
-<img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/hero.gif" width="100%" alt=""/>
-
-<br/>
+<div align="center">
 
 # Soumya Faye
 
@@ -55,83 +55,101 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║        🎥 VIDEO CTA — "LET'S BUILD TOGETHER"            ║ -->
-<!-- ║  This links to your portfolio. Replace the GIF/video    ║ -->
-<!-- ║  with a short clip of yourself or an AI avatar.         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ╔════════════════════════════════════════════════════════════╗ -->
+<!-- ║              🌀 PORTAL CTA — VIDEO GATEWAY                ║ -->
+<!-- ║  Drop your portal-cta.mp4 into ./assets/videos/           ║ -->
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<a href="https://portfolio-website-lg6v.vercel.app/#contact">
-  <img src="https://img.shields.io/badge/🚀_Let's_Build_The_Future_Together-Click_to_Connect-a855f7?style=for-the-badge&labelColor=0d1117" alt="Connect CTA"/>
+### 🌀 Let's Build the Future Together
+
+<a href="https://portfolio-website-lg6v.vercel.app">
+  <video src="./assets/videos/portal-cta.mp4" width="300" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
 </a>
 
-<!-- UNCOMMENT below once you have your avatar/intro video or GIF -->
-<!-- 
-<a href="https://portfolio-website-lg6v.vercel.app/#contact">
-  <video src="YOUR_CTA_VIDEO_URL.mp4" width="300" autoplay loop muted playsinline></video>
+<br/>
+
+<a href="https://portfolio-website-lg6v.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_Click_to_Connect-a855f7?style=for-the-badge&labelColor=0d1117" alt="Connect"/>
 </a>
--->
 
 </div>
 
 ---
 
+<!-- ╔════════════════════════════════════════════════════════════╗ -->
+<!-- ║          🛠️ TECH STACK — VIDEO CARD GRID                  ║ -->
+<!-- ║  Drop tech demo MP4s into ./assets/videos/                ║ -->
+<!-- ║  Each cell: video + tech name below                       ║ -->
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### AI & Robotics
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║       🎞️ TECH STACK VIDEO SHOWCASE (Optional)           ║ -->
-<!-- ║  Add short GIFs showing projects built with each tech.  ║ -->
-<!-- ║  Upload GIFs to the repo and reference them below.      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-<!--
-<div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-  <strong>🤖 NVIDIA Jetson Project</strong><br/>
-  <img src="YOUR_NVIDIA_PROJECT.gif" width="100%"/>
+<td align="center" width="25%">
+  <video src="./assets/videos/nvidia-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
 </td>
-<td align="center" width="33%">
-  <strong>🌐 Portfolio Website</strong><br/>
-  <img src="YOUR_PORTFOLIO_DEMO.gif" width="100%"/>
+<td align="center" width="25%">
+  <video src="./assets/videos/cerebras-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/Cerebras-1a1a2e?style=for-the-badge&logoColor=white" alt="Cerebras"/>
 </td>
-<td align="center" width="33%">
-  <strong>🍽️ Lumanrere</strong><br/>
-  <img src="YOUR_RESTAURANT_DEMO.gif" width="100%"/>
+<td align="center" width="25%">
+  <video src="./assets/videos/tensorflow-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</td>
+<td align="center" width="25%">
+  <video src="./assets/videos/pytorch-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+  <video src="./assets/videos/react-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</td>
+<td align="center" width="25%">
+  <video src="./assets/videos/typescript-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</td>
+<td align="center" width="25%">
+  <video src="./assets/videos/python-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</td>
+<td align="center" width="25%">
+  <video src="./assets/videos/webdev-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </td>
 </tr>
 </table>
+
+#### Also proficient in
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
--->
 
 ---
 
@@ -155,10 +173,10 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 | Project | Description | Tech |
 |:-------:|:-----------:|:----:|
 | [**🌐 Portfolio Website**](https://github.com/soumyafaye-23/portfolio-website) | Personal portfolio showcasing design & development work | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**🍽️ Lumanrere**](https://github.com/soumyafaye-23/lumanrere) | A responsive restaurant menu website with dishes, prices & categories | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**📋 NexusTech Event Hub**](https://github.com/soumyafaye-23/form) | Comprehensive, responsive web app for campus-wide event registrations | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**✈️ Traveling Blog**](https://github.com/soumyafaye-23/traveling-blog) | "Incredible India" — Responsive travel blog showcasing Shegaon, Manali & Jaipur | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**💻 DSA Codes**](https://github.com/soumyafaye-23/codetantra-DSA-codes) | DSA practice & algorithmic problem solving at SIT Nagpur | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [**🍽️ Lumanrere**](https://github.com/soumyafaye-23/lumanrere) | Responsive restaurant menu with dishes, prices & categories | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**📋 NexusTech Event Hub**](https://github.com/soumyafaye-23/form) | Campus-wide event registration web app | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**✈️ Traveling Blog**](https://github.com/soumyafaye-23/traveling-blog) | "Incredible India" — Shegaon, Manali & Jaipur | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**💻 DSA Codes**](https://github.com/soumyafaye-23/codetantra-DSA-codes) | DSA practice & algorithmic problem solving | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
 | [**📘 Programming in C**](https://github.com/soumyafaye-23/programing-in-c-) | C programming fundamentals and exercises | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
 
 </div>
@@ -167,10 +185,9 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 
 ## 🎬 NexusTech Event Hub — Demo
 
-<!-- REPLACE with your actual form-flow video/GIF -->
-<!-- Drag-drop your .mp4 or .gif into GitHub's README editor to get the URL -->
+<!-- Drop your form-flow video here: drag-drop .mp4 into GitHub editor -->
 
-> 🎥 **Coming Soon** — A walkthrough demo of the NexusTech Event Hub form flow will be added here!
+> 🎥 **Coming Soon** — A walkthrough demo of the NexusTech Event Hub form flow
 
 ---
 
