@@ -1,0 +1,31 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="py-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="py-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3776ab;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffd43b;stop-opacity:1" />
+    </linearGradient>
+    <filter id="neon-py">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" rx="10" ry="10" fill="url(#py-bg)" stroke="url(#py-grad)" stroke-width="2"/>
+  
+  <!-- Python Snake Curves -->
+  <path d="M100,100 Q200,50 300,100 T300,150" fill="none" stroke="#3776ab" stroke-width="3" opacity="0.8">
+    <animate attributeName="d" values="M100,100 Q200,50 300,100 T300,150; M100,100 Q200,150 300,100 T300,150; M100,100 Q200,50 300,100 T300,150" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M100,150 Q200,200 300,150 T300,100" fill="none" stroke="#ffd43b" stroke-width="3" opacity="0.8">
+    <animate attributeName="d" values="M100,150 Q200,200 300,150 T300,100; M100,150 Q200,100 300,150 T300,100; M100,150 Q200,200 300,150 T300,100" dur="5s" repeatCount="indefinite"/>
+  </path>
+  
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffd43b" font-family="sans-serif" font-weight="bold" font-size="32" filter="url(#neon-py)">PYTHON</text>
+</svg>

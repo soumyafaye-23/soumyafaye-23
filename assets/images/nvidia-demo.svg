@@ -1,0 +1,26 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nvidia-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#022c22;stop-opacity:1" />
+    </linearGradient>
+    <filter id="neon-green">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" rx="10" ry="10" fill="url(#nvidia-bg)" stroke="#76b900" stroke-width="2"/>
+  
+  <!-- Circuit Lines -->
+  <path d="M50,50 L350,50 L350,200 L50,200 Z" fill="none" stroke="#76b900" stroke-width="0.5" opacity="0.2"/>
+  <path d="M100,125 L300,125" fill="none" stroke="#76b900" stroke-width="2" filter="url(#neon-green)" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#76b900" font-family="sans-serif" font-weight="bold" font-size="32" filter="url(#neon-green)">NVIDIA</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" opacity="0.7">AI COMPUTING</text>
+</svg>

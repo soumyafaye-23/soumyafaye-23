@@ -1,17 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              SOUMYA FAYE — VIDEO-FIRST GITHUB PROFILE         -->
+<!--              SOUMYA FAYE — GITHUB PROFILE                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ╔════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🎬 HERO VIDEO                           ║ -->
-<!-- ║  Drop your hero-loop.mp4 into ./assets/videos/            ║ -->
-<!-- ╚════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-  <video src="./assets/videos/hero-loop.mp4" width="100%" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+<!-- 🎬 HERO BANNER -->
+<img src="./assets/images/hero-loop.svg" width="100%" alt="Hero Banner"/>
 
 <div align="center">
 
@@ -55,19 +49,13 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 
 ---
 
-<!-- ╔════════════════════════════════════════════════════════════╗ -->
-<!-- ║              🌀 PORTAL CTA — VIDEO GATEWAY                ║ -->
-<!-- ║  Drop your portal-cta.mp4 into ./assets/videos/           ║ -->
-<!-- ╚════════════════════════════════════════════════════════════╝ -->
-
+<!-- 🌀 PORTAL CTA -->
 <div align="center">
 
 ### 🌀 Let's Build the Future Together
 
 <a href="https://portfolio-website-lg6v.vercel.app">
-  <video src="./assets/videos/portal-cta.mp4" width="300" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="./assets/images/portal-cta.svg" width="300" alt="Enter Portal"/>
 </a>
 
 <br/>
@@ -80,12 +68,7 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 
 ---
 
-<!-- ╔════════════════════════════════════════════════════════════╗ -->
-<!-- ║          🛠️ TECH STACK — VIDEO CARD GRID                  ║ -->
-<!-- ║  Drop tech demo MP4s into ./assets/videos/                ║ -->
-<!-- ║  Each cell: video + tech name below                       ║ -->
-<!-- ╚════════════════════════════════════════════════════════════╝ -->
-
+<!-- 🛠️ TECH STACK CARDS -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -93,46 +76,38 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 <table>
 <tr>
 <td align="center" width="25%">
-  <video src="./assets/videos/nvidia-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/nvidia-demo.svg" width="100%" alt="NVIDIA"/>
   <br/>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
 </td>
 <td align="center" width="25%">
-  <video src="./assets/videos/cerebras-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/cerebras-demo.svg" width="100%" alt="Cerebras"/>
   <br/>
-  <img src="https://img.shields.io/badge/Cerebras-1a1a2e?style=for-the-badge&logoColor=white" alt="Cerebras"/>
 </td>
 <td align="center" width="25%">
-  <video src="./assets/videos/tensorflow-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/tensorflow-demo.svg" width="100%" alt="TensorFlow"/>
   <br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </td>
 <td align="center" width="25%">
-  <video src="./assets/videos/pytorch-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/pytorch-demo.svg" width="100%" alt="PyTorch"/>
   <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-  <video src="./assets/videos/react-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/react-demo.svg" width="100%" alt="React"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </td>
 <td align="center" width="25%">
-  <video src="./assets/videos/typescript-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/typescript-demo.svg" width="100%" alt="TypeScript"/>
   <br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </td>
 <td align="center" width="25%">
-  <video src="./assets/videos/python-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/python-demo.svg" width="100%" alt="Python"/>
   <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </td>
 <td align="center" width="25%">
-  <video src="./assets/videos/webdev-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/images/webdev-demo.svg" width="100%" alt="Next.js"/>
   <br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </td>
 </tr>
 </table>
@@ -184,8 +159,6 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 ---
 
 ## 🎬 NexusTech Event Hub — Demo
-
-<!-- Drop your form-flow video here: drag-drop .mp4 into GitHub editor -->
 
 > 🎥 **Coming Soon** — A walkthrough demo of the NexusTech Event Hub form flow
 
