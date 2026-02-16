@@ -1,8 +1,23 @@
 <div align="center">
 
-# Hey there! 👋 I'm Soumya Faye
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║              🎬 HERO VIDEO HEADER                       ║ -->
+<!-- ║  Replace YOUR_VIDEO_URL with your actual video link.    ║ -->
+<!-- ║  To get the link: Go to GitHub → Edit README →          ║ -->
+<!-- ║  Drag-drop your .mp4 file → GitHub gives you a URL.     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-### `Designer` • `Developer` • `AI & Robotics Engineer`
+<!-- UNCOMMENT the video tag below once you have your video URL -->
+<!-- <video src="YOUR_VIDEO_URL.mp4" width="100%" autoplay loop muted playsinline></video> -->
+
+<!-- TEMPORARY FALLBACK: This shows until you add your video -->
+<img src="https://raw.githubusercontent.com/soumyafaye-23/soumyafaye-23/main/hero.gif" width="100%" alt=""/>
+
+<br/>
+
+# Soumya Faye
+
+### `Designer` · `Developer` · `AI & Robotics Engineer`
 
 <a href="https://github.com/soumyafaye-23">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+the+future+of+robotics+with+NVIDIA+%26+Cerebras;Autonomous+UAV+Developer+%7C+AI+%26+ML+Specialist;Focused+on+training+advanced+AI+models" alt="Typing SVG"/>
@@ -13,7 +28,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-website-lg6v.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyafaye@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyafaye-23)
-![Profile Views](https://komarev.com/ghpvc/?username=soumyafaye-23&color=a855f7&style=for-the-badge&label=VIEWS)
+![Views](https://komarev.com/ghpvc/?username=soumyafaye-23&color=a855f7&style=for-the-badge&label=VIEWS)
 
 </div>
 
@@ -37,6 +52,29 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 - 💬 Ask me about **AI/ML, Robotics, UAV Development, Web Design**
 - 📫 Reach me at **soumyafaye@gmail.com**
 - ⚡ Fun fact: I'm driven by the challenge of building efficient software and solving complex algorithmic problems
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║        🎥 VIDEO CTA — "LET'S BUILD TOGETHER"            ║ -->
+<!-- ║  This links to your portfolio. Replace the GIF/video    ║ -->
+<!-- ║  with a short clip of yourself or an AI avatar.         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<a href="https://portfolio-website-lg6v.vercel.app/#contact">
+  <img src="https://img.shields.io/badge/🚀_Let's_Build_The_Future_Together-Click_to_Connect-a855f7?style=for-the-badge&labelColor=0d1117" alt="Connect CTA"/>
+</a>
+
+<!-- UNCOMMENT below once you have your avatar/intro video or GIF -->
+<!-- 
+<a href="https://portfolio-website-lg6v.vercel.app/#contact">
+  <video src="YOUR_CTA_VIDEO_URL.mp4" width="300" autoplay loop muted playsinline></video>
+</a>
+-->
+
+</div>
 
 ---
 
@@ -67,6 +105,33 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║       🎞️ TECH STACK VIDEO SHOWCASE (Optional)           ║ -->
+<!-- ║  Add short GIFs showing projects built with each tech.  ║ -->
+<!-- ║  Upload GIFs to the repo and reference them below.      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<!--
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+  <strong>🤖 NVIDIA Jetson Project</strong><br/>
+  <img src="YOUR_NVIDIA_PROJECT.gif" width="100%"/>
+</td>
+<td align="center" width="33%">
+  <strong>🌐 Portfolio Website</strong><br/>
+  <img src="YOUR_PORTFOLIO_DEMO.gif" width="100%"/>
+</td>
+<td align="center" width="33%">
+  <strong>🍽️ Lumanrere</strong><br/>
+  <img src="YOUR_RESTAURANT_DEMO.gif" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+-->
 
 ---
 
@@ -102,26 +167,10 @@ Portfolio: https://portfolio-website-lg6v.vercel.app
 
 ## 🎬 NexusTech Event Hub — Demo
 
-<!-- 
-  HOW TO ADD YOUR FORM FLOW VIDEO/GIF:
-  
-  Option 1 (GIF — recommended): 
-    Record your screen, convert to GIF, then drag-and-drop the GIF 
-    into this README on GitHub's web editor. GitHub will upload it and 
-    give you a URL automatically. Replace the placeholder below.
-  
-  Option 2 (MP4 Video): 
-    Drag-and-drop an .mp4 file into this README on GitHub's web editor.
-    GitHub will auto-upload it. Replace the placeholder below.
-  
-  Option 3 (YouTube link with thumbnail):
-    Upload your video to YouTube, then use the format below with your video ID.
--->
+<!-- REPLACE with your actual form-flow video/GIF -->
+<!-- Drag-drop your .mp4 or .gif into GitHub's README editor to get the URL -->
 
-<!-- REPLACE THIS PLACEHOLDER with your actual GIF/video once you record it -->
 > 🎥 **Coming Soon** — A walkthrough demo of the NexusTech Event Hub form flow will be added here!
-> 
-> *To add it: Record your screen → convert to GIF → drag-and-drop into this README on GitHub's web editor*
 
 ---
 
